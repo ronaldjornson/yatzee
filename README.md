@@ -3,7 +3,7 @@
 ### A school project
 
 ## Background:
-	This is a Project for our own use as we are learning to code in C#
+This is a Project for our own use as we are learning to code in C#
 
 ## Users:
 
